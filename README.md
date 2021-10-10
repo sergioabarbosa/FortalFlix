@@ -12,7 +12,7 @@
 # Tecnologias utilizadas:
 # 1 - Para a contrução desse projeto foi utilizado React com ContextAPI, assim utilizando Hooks;
 # 2 - Para a contrução desse projeto foi utilizado na estilização a biblioteca Styled-Components:
-      https://styled-components.com/;
+      Documentação: https://styled-components.com/;
 # 3 - Para a estilização, alem da Styled-Component também foi utilizado CSS3;
 
 
