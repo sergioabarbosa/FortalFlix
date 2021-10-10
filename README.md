@@ -1,6 +1,7 @@
 # Seja bem-vindo ao projeto FortalFlix
 Site de Séries
 
+
 # Sobre o Projeto:
 
 1 - Projeto desenvolvido com a API gratuita TVMAZ;
@@ -12,4 +13,6 @@ Site de Séries
 Para a contrução desse projeto foi utilizado React e a ContextAPI, assim utilizando Hooks;
 
 OBS: Dark mode está em construção, mas o Header já escurece ao clicar no botão;
+
+
 
