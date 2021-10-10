@@ -1,6 +1,7 @@
 # Seja bem-vindo ao projeto FortalFlix
 # Site de Séries
 
+
 # Sobre o Projeto:
 
 # 1 - Projeto desenvolvido com a API gratuita TVMAZ;
@@ -16,4 +17,6 @@
 
 
 # OBS: Dark mode está em construção, mas o Header já escurece ao clicar no botão;
+
+
 
