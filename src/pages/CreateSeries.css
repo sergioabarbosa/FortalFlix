@@ -1,6 +1,7 @@
 body{
   margin: 10px;
-  background-image: url('../images/background.png');
+  background-color: #700f1c;
+  /* background-image: url('../images/background.png'); */
 }
 
 .card-content{

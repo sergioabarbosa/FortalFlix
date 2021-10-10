@@ -27,8 +27,13 @@ useEffect(() => {
   [data, search]);
 
   const handleClick = (e) => {
+    // Setando a busca para o campo obrigatoriamente como não vazia
+    if(!search) return alert('Insira uma série válida para pesquisa');
+    // tentei assim:
     e.preventDefault();
    setQuery(search);
+   // limpando o input após a busca
+   setSearch('')
   };
   console.log(data);
 

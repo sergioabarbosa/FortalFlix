@@ -14,7 +14,7 @@ export const BodyS = styled.body`
 export const HeaderS = styled.header`
   background-color: ${(props) => props.painted ? 'grey' : ''};
   border-radius: 3px;
-  color: red;
+  color: white;
   height: 100px;
   text-align: center;
 
