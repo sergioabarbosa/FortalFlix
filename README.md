@@ -14,7 +14,6 @@
 # 2 - Para a contrução desse projeto foi utilizado na estilização a biblioteca Styled-Components:
       Documentação: https://styled-components.com/;
 # 3 - Para a estilização, alem da Styled-Component também foi utilizado CSS;
-# 4 - Para a validação do formulário, alem da Styled-Component também foi utilizado CSS;
 
 
 # OBS: Dark mode está em construção, mas o Header já escurece ao clicar no botão;
