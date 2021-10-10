@@ -3,7 +3,7 @@ import { useContext } from "react";
 import MyContext from '../context/MyContext';
 import './CreateSeries.css';
 import { HeaderS } from "./styles";
-// import Footer from "../components/Footer";
+import Footer from "../components/Footer";
 import { Link } from "react-router-dom";
 
 function Details(props) {
@@ -15,7 +15,7 @@ function Details(props) {
   return(
     <div>
     <HeaderS/>
-    <div><h2>Detalhes: </h2></div>
+    <div><h2 className="h2-resumo">Resumo da Série: </h2></div>
       <div className="details">
         {serie.show.image ? <img className="img-details" src={serie.show.image.medium} alt="imagem" /> :'Sem Imagem'}
         {/* {Retira as tags <p> do resumo} */}
@@ -24,7 +24,7 @@ function Details(props) {
           <button className="button-goback">Voltar</button>
           </Link>
     </div>
-    {/* <Footer /> */}
+    <Footer />
   </div>
   )
 }

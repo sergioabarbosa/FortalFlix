@@ -37,7 +37,7 @@ body{
 .details{
   align-items: center;
   border: solid;
-  color: whitesmoke;
+  color: white;
   display: flex;
   justify-content: center;
   margin-left: 30vh;
@@ -53,6 +53,19 @@ body{
   border-radius: 5px;
   margin: 5px;
   width: 280px;
+}
+
+.h2-resumo{
+  align-items: center;
+  border: solid;
+  color: white;
+  display: flex;
+  justify-content: center;
+  margin-left: 30vh;
+  margin-right: 30vh;
+  margin-bottom: 10vh;
+  margin-block-end: 20vh;
+  text-align: center;
 }
 
 .button-goback{
