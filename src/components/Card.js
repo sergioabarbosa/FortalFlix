@@ -8,7 +8,7 @@ console.log(serie.show.id);
   return(
   <div className="card">
     <Link to={`/details/${serie.show.id}`}>
-      {serie.show.image ? <img className="img" src={serie.show.image.medium} /> :'Sem Imagem'}
+      {serie.show.image ? <img className="img" src={serie.show.image.medium} alt="imagem da série" /> :'Sem Imagem'}
     </Link>
     <ul key={ console.log(serie.show.id) }>
       <li>Nome da Série:{ serie.show.name }</li>
