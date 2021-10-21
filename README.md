@@ -1,5 +1,6 @@
 # Seja bem-vindo ao projeto FortalFlix
 # Site de Séries
+veja o site online em: https://fortal-flix.vercel.app/
 
 
 # Sobre o Projeto:
